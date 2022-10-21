@@ -173,18 +173,18 @@ O programa contém uma **comunidade** muito incrível na qual consigo desenvolve
 <details>
   <summary>🔄 <b>Nível 08</b></summary>
   <ul>
-    <li>🔄 <i>Land 7 - Inglês</i></li>
+    <li>🔄 <i>Land 8 - Inglês</i></li>
       <ul>
-        <li>Perfil LinkedIn em inglês</li>
+        <li> ✅ Perfil LinkedIn em inglês</li>
         <li>README em inglês</li>
         <li>Código em inglês</li>
       </ul>
     <li>🔄 <i>Stage 08 - Back-end</i></li>
       <ul>
-        <li>Fundamentos do back-end</li>
-        <li>Node.js</li>
-        <li>NPM (Gerencuadir de pacotes)</li>
+        <li> ✅ Fundamentos do back-end</li>
+        <li> ✅ Node.js</li>
         <li>SQL</li>
+        <li>NPM (Gerencuadir de pacotes)</li>
       </ul>
   </ul>
 </details>
@@ -251,4 +251,4 @@ O programa contém uma **comunidade** muito incrível na qual consigo desenvolve
 
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com 💜 por José Alisson Ferreira Machado 👋 <p>
